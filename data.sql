@@ -520,3 +520,128 @@ INSERT INTO Brand (name,thumbnail)
 VALUES ('TONY FRUIT','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/tony-fruit-18112023132148.png
 ',0)
 
+
+--MAMA FOOD
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('MAMA FOOD','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/mama-food-04042021234151.jpg
+',0)
+
+
+
+--Mydibel
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Mydibel','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/mydibel-04042021224056.jpg
+',0)
+
+
+
+--Tran Gia
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Mydibel','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/tran-gia-13052021145626.jpg
+',0)
+
+
+--SG Food
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('SG Food','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/sg-food-05042021222518.jpg
+',0)
+
+--3 
+--Tường An
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Tường An','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/tuong-an-0504202116136.jpg
+',0)
+
+
+--Neptune
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Tường An','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/neptune-1008202213754.png
+',0)
+
+
+--Sloboda
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Sloboda','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/sloboda-2007202315179.jpg
+',0)
+
+
+--Simply
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Simply','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/simply-06052022122049.png
+',0)
+
+
+
+--Meizan
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Simply','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/meizan-06052022115439.png
+',0)
+
+
+--Cái Lân
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Cái Lân','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/cai-lan-22062022115940.png
+',0)
+
+
+--Kiddy
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Kiddy','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/kiddy-1010202211200.png
+',0)
+
+
+--Nakydaco
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Nakydaco','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/nakydaco-1503202116401.jpg
+',0)
+
+--Olivoilà
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Olivoilà','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/olivoila-06052022121541.png
+',0)
+
+
+--Happy Koki
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Happy Koki','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/happi-soya-05042021235016.jpg
+',0)
+
+
+
+--Orchild
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Orchild','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/orchid-08042021124317.png
+',0)
+
+
+--Good Meall
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Good Meall','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/good-meall-05042021133022.jpg
+',0)
+
+
+
+--Olita
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Olita','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/olita-1503202195447.jpg
+',0)
+
+
+--Ranee
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Ranee','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/ranee-04042021225055.jpg
+',0)
+
+
+--Janbee
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Janbee','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/janbee-0604202102316.jpg
+
+
+
+--Parrot
+INSERT INTO Brand (name,thumbnail) 
+VALUES ('Parrot','https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_104x59/https://cdn.tgdd.vn/Brand/11/parrot-2809202217015.png
+
+
+
